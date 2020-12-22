@@ -42,7 +42,7 @@ footer{
 
 
 d{color:white;
-font-size:45px;}
+}
 .grad{background:linear-gradient(to bottom,blue ,white,blue);}
 
 .cont{
@@ -60,7 +60,7 @@ font-size:45px;
  float:right;
 }
 .tags{
-    width:180px;
+    width:200px;
     height:50px;
     background:white;
     border:0.5px solid black;
