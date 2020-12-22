@@ -1,0 +1,88 @@
+
+       body{
+
+font-family:times new roman;
+text-align:justify;
+ font-size:20px;
+ background:white;
+    color:blue;
+}
+
+footer{
+       color:green;
+    text-align:center;
+}
+
+/* The sidebar menu */
+.sidenav {
+    opacity:1 ;
+  height:; /* Full-height: remove this if you want "auto" height */
+  width:100% ; /* Set the width of the sidebar */
+  position:fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 0; /* Stay on top */
+  top:1; /* Stay at the top */
+  left:0;
+  text-align:center;
+  
+  
+  /* Black */
+  overflow-x:1; /* Disable horizontal scroll */
+  padding-top: 0px;
+  border:1px;
+  
+  
+}
+
+
+
+/* When you mouse over the navigation links, change their color */
+.cont a:hover {
+  color:#FF00E7;
+}
+
+
+d{color:white;}
+.grad{background:linear-gradient(to bottom,blue ,white,blue);}
+
+.cont{
+
+padding:1px;
+ text-align:center;
+ width:100px;
+ height:25px;
+ border:3px solid blue;
+ border-radius:50px;
+ border-style:ridge;
+ 
+ overflow:scroll;
+ float:right;
+}
+.tags{
+    width:140px;
+    height:25px;
+    background:white;
+    border:0.5px solid black;
+    border-radius:50px;
+    text-align:justify;
+    overflow:scroll;
+    color:black;
+    opacity:0.3;
+    text-align:center;
+    float:left;
+    
+}
+.hor{
+    opacity:0.3;
+}
+.group{
+       width:100%;
+    height:300px;
+    background:white;
+    border:0.5px;
+    border-radius:7px;
+    text-align:justify;
+    overflow:scroll;
+    text-align:center;
+    
+    
+}
