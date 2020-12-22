@@ -41,7 +41,8 @@ footer{
 }
 
 
-d{color:white;}
+d{color:white;
+font-size:40px;}
 .grad{background:linear-gradient(to bottom,blue ,white,blue);}
 
 .cont{
