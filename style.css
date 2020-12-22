@@ -1,4 +1,4 @@
-Aa 
+
        body{
 
 font-family:times new roman;
@@ -17,7 +17,7 @@ footer{
 .sidenav {
     opacity:1 ;
   height:200px; /* Full-height: remove this if you want "auto" height */
-  width:100%; /* Set the width of the sidebar */
+  width:50%; /* Set the width of the sidebar */
   position:fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 0; /* Stay on top */
   top:1; /* Stay at the top */
