@@ -16,8 +16,8 @@ footer{
 /* The sidebar menu */
 .sidenav {
     opacity:1 ;
-  height:200px; /* Full-height: remove this if you want "auto" height */
-  width:50%; /* Set the width of the sidebar */
+  height:250px; /* Full-height: remove this if you want "auto" height */
+  width:100%; /* Set the width of the sidebar */
   position:fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 0; /* Stay on top */
   top:1; /* Stay at the top */
@@ -60,7 +60,7 @@ font-size:45px;
  float:right;
 }
 .tags{
-    width:200px;
+    width:400px;
     height:50px;
     background:white;
     border:0.5px solid black;
