@@ -17,7 +17,7 @@ footer{
 /* The sidebar menu */
 .sidenav {
     opacity:1 ;
-  height:345px; /* Full-height: remove this if you want "auto" height */
+  height:355px; /* Full-height: remove this if you want "auto" height */
   width:100%; /* Set the width of the sidebar */
   position:; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 0; /* Stay on top */
